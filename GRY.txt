@@ -1,0 +1,69 @@
+7.Citadels 100zl 
+10.Totem
+11.Pojedynek
+13.Detektyw
+14.Grunt to zdrowie
+dixit 100
+załoga 80
+kroniki zbrodni 90
+istanbul 240
+poszukiwania pierscienia 220
+sherlock 25zl
+wyspa skye POG 100zl
+martwa zima
+everdell
+cisza
+el dorado
+catan
+to ja go tne
+dylemat wagonika
+
+strona=Market watch
+--------------------------
+CCC s.a B>40|45           |
+--------------------------
+PKO BP B>23|25 S>40       |
+--------------------------
+PKN orlen B>40|45 S>70|100|
+--------------------------
+PGE B>4 S>7               |
+--------------------------
+Millenium B>2|2.3 S>7     |
+--------------------------
+2540 odlozone
+440 moje
+ewentualne 200
+=
+640 moje
+3310 aktualnie -325-440
+44000 fp leg pet
+42x10
+45x8 50x8 50x9
+55x3 58x3 55x4
+ciepla pizama
+marcin c
+
+religia 6
+polski 4
+angielski 4
+niemiec 5
+matma 4
+chemia  4
+biola 4
+wf 5
+his 5
+biofiz 4
+lacina 5
+anatomia por 4
+historia 5
+wos 5
+wok 5
+fizyka 5
+gera 5
+pp  5
+infa 5
+stechiometria 5
+cytologia 5
+edb 6
+
+
